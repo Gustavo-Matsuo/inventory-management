@@ -22,5 +22,5 @@ Sistema de gerenciamento de estoque desenvolvido para controlar produtos, permit
 2. Abrir em uma IDE (Eclipse ou VS Code)  
 3. Executar a aplicação  
 
-📈 Objetivo
+📈 Objetivo:
 Praticar conceitos fundamentais de lógica de programação e manipulação de dados em Java.
