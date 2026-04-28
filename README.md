@@ -1,4 +1,4 @@
-# 📦 Inventory_Management
+# 📦 Inventory Management
 
 ## 📌 Sobre o projeto:
 Sistema de gerenciamento de estoque desenvolvido para controlar produtos, permitindo adicionar, listar, remover e atualizar quantidades.
